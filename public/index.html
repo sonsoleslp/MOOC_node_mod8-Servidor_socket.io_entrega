@@ -35,7 +35,7 @@
         $('#name').text(user + ":");
 
         // Create socket connection
-        const socket = io.connect("http://localhost:3000", {query: `name=${user}`});
+        const socket = io.connect("http://127.0.0.1:3000", {query: `name=${user}`});
 
         // Messages sent
         $('form').submit(function(){
