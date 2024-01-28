@@ -2,9 +2,10 @@
 <img  align="right" width="150" style="float: right;" src="https://miriadax.net/miriadax-theme/images/custom/logo_miriadax_new.svg">
 
 <br/><br/><br/>
+
 # Módulo 8: Websockets - Creación de un chat con socket.io
 
-Versión: 12 de enero 2022
+Versión: 14 de enero de 2024
 
 ## Objetivos
  
